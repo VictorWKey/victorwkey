@@ -23,19 +23,19 @@ Here are some ideas to get you started:
 ### <div align="center">Hey, I´m Víctor Ángel López, Machine Learning Engineer 🤖 & Web Developer 🧑🏻‍💻</div>  
   
 
--  💻 My portfolio deployed here 👉 [Portfolio](https://victorwkey.github.io)  
+-  💻 Check out my portfolio deployed here 👉 [Portfolio](https://victorwkey.github.io)  
   
 
-- 🧑‍💻 I´m currently learning Deep Learning  
+- 🧑‍💻 Currently diving into Deep Learning
   
 
-- My principal tech stack on Machine Learning: Python 🐍 , Scikit Learn 🟠, SQL 🛢 and Math ➗  
+- My primary tech stack for Machine Learning: Python 🐍, Scikit Learn 🟠, SQL 🛢, and Math ➗
   
 
-- My principal tech stack on Web Development: HTML 🟠, CSS 🟦 , JavaScript 🟡, React ⚛️, Astro 🚀 and Tailwind💧  
+- My primary tech stack for Web Development: HTML 🟠, CSS 🟦, JavaScript 🟡, React ⚛️, Astro 🚀, and Tailwind 💧
   
 
-- Amo ayudar en lo que pueda a las personas asi que no dudes en contactarme!  
+- I love helping others, so don't hesitate to reach out!
   
 
 <br/>  
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/victorwkey1" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-angel-lopez-556605245/" target="_blank">
+<a href="https://www.linkedin.com/in/victor-angel-lopez-556605245/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=61557229064845" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61557229064845" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCiA-4prtMVCBWhIB6YGdCWw" target="_blank">
+<a href="https://www.youtube.com/channel/UCiA-4prtMVCBWhIB6YGdCWw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
