@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/VictorWKey/victorwkey/main/Header.png" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">Hey, I´m Víctor Ángel López, Machine Learning Engineer 🤖 & Web Developer 🧑🏻‍💻</div>  
