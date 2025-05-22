@@ -9,7 +9,7 @@
 I’m an AI Engineer passionate about building intelligent, scalable, and secure AI systems. With a full-stack background, I integrate advanced AI into robust web and mobile applications, ensuring high performance, seamless UX, and secure deployment on private infrastructure. My focus is on developing **cost-effective** and **production-ready** AI workflows for startups and enterprises alike. I quickly learn new concepts and keep up to date with the latest advancements in the AI field.
 
 **Key Areas of Expertise:**
-- **Large Language Models (LLMs):** GPT (OpenAI), LLaMA (Meta), Claude (Anthropic), and open-source models from Hugging Face.
+- **Large Language Models (LLMs):** GPT (OpenAI), LLaMA (Meta), Claude (Anthropic), open-source (Hugging Face) and others.
 - **Retrieval-Augmented Generation (RAG):** Designing and integrating RAG pipelines to enhance context-aware responses.
 - **AI Agents & Multi-Agent Systems:** Building intelligent agents capable of tool use and complex reasoning.
 - **Fine-Tuning & Prompt Engineering:** Customizing models for specific tasks and optimizing prompt strategies.
