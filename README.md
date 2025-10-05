@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Víctor%20López&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20Software%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=200&section=header&text=Víctor%20López&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20Software%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=60&descAlign=50)
 
 </div>
 
