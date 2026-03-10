@@ -29,6 +29,6 @@ B.Eng. in Data Engineering & Artificial Intelligence — Universidad de Guanajua
 
 ### Get in touch
 
-[victorwkey.com](https://victorwkey.com) · [LinkedIn](linkedin.com/in/victorlopezwk) · [victorwkey@gmail.com](mailto:victorwkey@gmail.com)
+[victorwkey.com](https://victorwkey.com) · [LinkedIn](https://www.linkedin.com/in/victorlopezwk) · [victorwkey@gmail.com](mailto:victorwkey@gmail.com)
 
 Open to remote opportunities and relocation.
