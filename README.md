@@ -6,7 +6,7 @@ Over one year of professional experience building conversational agents, RAG sys
 
 ### Professional experience
 
-At **[Vórtice Coaching](https://www.vortice.com.mx/)**, I build AI features and backend services, including:
+At **[Vórtice Coaching](https://www.vortice.com.mx/)**, I started in frontend development and expanded my responsibilities into backend development and applied AI. My current work includes:
 
 - Conversational agents with tool calling and API integrations.
 - Document question answering with semantic retrieval and source references.
