@@ -39,7 +39,7 @@ Fine-tuned two BERT models: a multi-label classifier for 12 categories (**80% we
 ### Education
 
 **Data Engineering & Artificial Intelligence**, Universidad de Guanajuato
-August 2023 – November 2026 (expected completion). Degree in progress.
+August 2023 to November 2026 (expected completion). Degree in progress.
 
 ### Contact
 
