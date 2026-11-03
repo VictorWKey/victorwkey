@@ -2,7 +2,7 @@
 
 **Software Developer | AI Engineering**
 
-Over one year of professional experience building conversational agents, RAG systems, and LLM workflows for business applications. Focused on understanding business problems and building software that is easy to use, while keeping complexity and resource use in check.
+Over one year of professional experience building conversational agents, RAG systems, and LLM workflows for business applications. Focused on understanding how users work and applying AI to save time, simplify tasks, and reduce costs.
 
 ### Professional experience
 
